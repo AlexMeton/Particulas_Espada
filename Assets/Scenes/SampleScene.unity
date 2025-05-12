@@ -5127,7 +5127,7 @@ GameObject:
   - component: {fileID: 778044564}
   - component: {fileID: 778044563}
   m_Layer: 0
-  m_Name: Tornado (1)
+  m_Name: TornadoNegro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9955,7 +9955,7 @@ GameObject:
   - component: {fileID: 950046938}
   - component: {fileID: 950046937}
   m_Layer: 0
-  m_Name: Tornado
+  m_Name: TornadoRojo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
